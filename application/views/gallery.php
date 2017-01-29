@@ -1,11 +1,2 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>403 Forbidden</title>
-</head>
-<body>
-
-<p>Directory access is forbidden.</p>
-
-</body>
-</html>
+{thetable}
+<h1>The image gallery, complete :)</h1>
