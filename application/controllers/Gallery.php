@@ -19,7 +19,6 @@ class Gallery extends Application
 	 */
 	public function index()
 	{
-            $this->load->model('Images');
 
             //get all the images from our model
             $pix = $this->Images->all();

@@ -10,11 +10,17 @@ Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdo
 Release Date: Jul 26, 2027
 
 ## New Components
+MT - Added view fragment __cell.php
+MT - Added Model Images, created function All()
 MT - Added views gallery.php, welcome.php, about.php
 MT - Added controllers Gallery.php, About.php
 
 
 ## Updated Components
+MT - updated welcome view and controller like gallery
+MT - Added to Model Images function newest()
+MT - Gallery Controller to generate our gallery and adjusted the view
+MT - Configured database.php and autoload.php 
 JL - updated website to revolve around controller components.
 MT - Removed view welcome_page.php
 MT - Updated controller Welcome.php to load a new view welcome.php
